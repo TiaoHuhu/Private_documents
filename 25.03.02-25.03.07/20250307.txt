@@ -5,3 +5,14 @@
 英语：无
 
 专业课：无
+
+考研英语注意事项：
+  重点在于单词 研究生英语偏语感 四级是广度问题（以上是由 大学英语老师说）
+对于以往的英语学习需小改动 大量的阅读 阅读考试试题 课外书可以提升语感 但
+阅读课外需要明确 位置在试卷后
+
+数学：
+  基础为主
+
+专业课：
+  重要程度 数据结构（structure data）>计算机组成原理（principles of computer composition）<操作系统（operating system）<计算机网络（computer network）
